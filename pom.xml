@@ -28,10 +28,10 @@
   <description>Athenz Yahoo Server OAuth2 access token implementation for Auth0</description>
 
   <properties>
-    <athenz.version>1.10.4</athenz.version>
+    <athenz.version>1.10.24</athenz.version>
     <jjwt.version>0.11.2</jjwt.version>
-    <testng.version>7.3.0</testng.version>
-    <mockito.version>3.7.7</mockito.version>
+    <testng.version>7.4.0</testng.version>
+    <mockito.version>3.11.2</mockito.version>
     <clover.version>4.3.1</clover.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
